@@ -104,7 +104,7 @@ nav li a:active {
 }
 
 nav li a:hover:after {
-  content: "🠒";
+  content: "\1F812";
   display: flex;
   align-items: center;
   justify-content: center;
